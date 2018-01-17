@@ -9,7 +9,6 @@ import java.text.DecimalFormat;
  *
  * @author Trey Lavender
  */
-
 public class C4_23 {
 
     /**
